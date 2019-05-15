@@ -10,4 +10,4 @@ Step 4) Fix the extrinsic parameters of the thermal camera based on the landmark
 
 Step 5) Extract the MRI data slices by running data_volume_slicing.py and save as .h5 file. (Manual Step: No)
 
-Step 6) Extract the MRI tumor label slices by running data_label_slices.py and save as .h5 file. (Manual Step: No)
+Step 6) Extract the MRI tumor label slices by running data_label_slicing.py and save as .h5 file. (Manual Step: No)
