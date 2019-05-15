@@ -1,8 +1,3 @@
-'''
-                      The following functions read intraoperative points 
-                and perform conversions from one coordinate system to another
-'''
-
 def read_intra_op_points(folderpath):
     print('Read IntraOp points.')
     if os.path.isfile(os.path.join(folderpath, 'fiducials.csv')):
