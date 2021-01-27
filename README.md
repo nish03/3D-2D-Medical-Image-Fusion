@@ -1,7 +1,9 @@
 # 3D-2D Medical Image Fusion
 This is the open source toolkit for the EMBC 2019 single page paper titled [Multimodal  Medical  Image  Fusion  by  optimizing  learned  pixel  weights using  Structural  Similarity  index](https://tu-dresden.de/ing/informatik/smt/cgv/ressourcen/dateien/publikationen/2019/Kumar-2019-EMBC.pdf?lang=en) by **N.Kumar et al**. This repository will provide insights into performing 3D-2D medical image fusion (especially for 3D MRI and 2D thermal and optical images) which would help clinical professionals in making finer diagnostic decisions during image guided neurosurgery. In this repository, we show how to extract tumor information from 3D MRI volume and fuse it with 2D intraoperative thermal and optical images with a good level of precision. 
 
-**Note:** Please cite the paper if you are using this code in your research.
+**Note:** Please cite the paper if you are using this code in your research. The citation should be done as follows:
+
+``` Kumar, N., Hoffmann, N., Oelschlägel, M., Koch, E., Kirsch, M., & Gumhold, S. Multimodal Medical Image Fusion by optimizing learned pixel weights using Structural Similarity index.```
 
 # Prerequisites
 * Python 2.7
